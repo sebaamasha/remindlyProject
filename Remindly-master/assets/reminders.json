@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Supermarket",
+      "latitude": 32.232730,
+      "longitude": 34.962729,
+      "address": "Tareq Abd el-Hai St 5, Tira",
+      "radius": 50,
+      "text": "Buy milk"
+    },
+    {
+      "id": 2,
+      "name": "coffee shop",
+      "latitude": 32.088773,
+      "longitude": 34.802112,
+      "address": "HaTa'as St 4, Ramat Gan",
+      "radius": 50,
+      "text": "Pick up a cake"
+    }
+  ] 
